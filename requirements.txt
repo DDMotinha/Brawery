@@ -1,0 +1,8 @@
+apache-airflow==2.7.1
+pandas==2.0.3
+pyarrow==12.0.1
+requests==2.31.0
+great-expectations==0.17.15
+pytest==7.4.0
+pytest-cov==4.1.0
+python-dotenv==1.0.0
