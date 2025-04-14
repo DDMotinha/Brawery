@@ -65,7 +65,7 @@ git --version
 ### Passo 1: Clonar o Repositório
 
 \`\`\`bash
-git clone https://github.com/seu-usuario/breweries-pipeline.git
+git clone https://github.com/DDMotinha/Brawery.git
 cd breweries-pipeline
 \`\`\`
 
